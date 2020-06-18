@@ -1,5 +1,9 @@
 # boris
 
+[![Build Status](https://travis-ci.org/op3/boris.svg?branch=master)](https://travis-ci.org/op3/boris)
+[![codecov](https://codecov.io/gh/op3/boris/branch/master/graph/badge.svg)](https://codecov.io/gh/op3/boris)
+[![License: GPL-3.0](https://img.shields.io/github/license/op3/boris?color=blue)](COPYING)
+
 ## Bayesian Optimization to Reconstruct the Incident Spectrum
 
 boris is a modern MCMC-based deconvolution code that can be used to unfold nuclear spectra.
@@ -117,10 +121,11 @@ Copyright © 2020
 
 Oliver Papst `<opapst@ikp.tu-darmstadt.de>`
 
-This code is distributed under the terms of the GNU General Public License. See [COPYING](COPYING) for more information.
+This code is distributed under the terms of the GNU General Public License, version 3 or later. See [COPYING](COPYING) for more information.
 
 
 ## Acknowledgements
 
+We thank U. Friman-Gayer for valuable discussions.
 This work has been funded by the State of Hesse under the grant “Nuclear Photonics” within the LOEWE program.
 O. Papst acknowledges support by the Helmholtz Graduate School for Hadron and Ion Research of the Helmholtz Association.
